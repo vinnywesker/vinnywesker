@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&background=00000000&center=true&vCenter=true&width=435&lines=Senior+Mobile+Engineer;Fullstack+Specialist;React+Native+%7C+Native+Modules;NodeJS+%7C+NestJS+%7C+Microservices" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&background=00000000&center=true&vCenter=true&width=600&lines=Senior+Mobile+Engineer;Fullstack+Specialist;React+Native+%7C+Native+Modules;NodeJS+%7C+NestJS+%7C+Microservices&size=36" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -52,7 +52,7 @@ Com sólida experiência em **aplicações financeiras de alta complexidade**, m
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Bitrise-760FC3?style=for-the-badge&logo=bitrise&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white" />
 
 </div>
 
